@@ -1,0 +1,14 @@
+{
+  "name": "ConnectGame",
+  "interface": "om-next",
+  "androidHost": "localhost",
+  "iosHost": "localhost",
+  "envRoots": {
+    "dev": "env/dev",
+    "prod": "env/prod"
+  },
+  "modules": [],
+  "imageDirs": [
+    "images"
+  ]
+}
